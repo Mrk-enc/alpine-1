@@ -3,7 +3,7 @@
   "version": "1.6.5",
   "type": "module",
   "exports": "./nuxt.config.ts",
-  "packageManager": "pnpm@8.5.1",
+  "packageManager": "pnpm@8.15.1",
   "files": [
     "assets",
     "components",
@@ -37,12 +37,12 @@
   "devDependencies": {
     "@nuxt/eslint-config": "^0.2.0",
     "@nuxtjs/plausible": "^0.2.4",
-    "@types/node": "^20.11.5",
+    "@types/node": "^20.11.13",
     "eslint": "^8.56.0",
-    "nuxt": "^3.9.3",
+    "nuxt": "^3.10.0",
     "release-it": "^16.3.0",
     "typescript": "^5.3.3",
-    "vite-plugin-inspect": "^0.8.1",
+    "vite-plugin-inspect": "^0.8.3",
     "vue": "^3.4.15"
   },
   "pnpm": {
